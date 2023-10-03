@@ -15,5 +15,5 @@
 -- RUN: g++ main.cpp
 --      .\a 
 
-DEMO: 
+
 ![image](https://github.com/Harshal142003/Mars_Rover_EI/assets/104431704/93d04c12-c5a2-4028-951e-0a117d00d453)
