@@ -1,8 +1,8 @@
 --SETUP:
 
-->  CLASSES: ROVER,COMMAND,COMMANDEXECUTE
+->  CLASSES: ROVER, COMMAND, COMMANDEXECUTE
   
-->  ROVER: -> datamembers for grid, obstacles storage, initialize position and direction,
+->  ROVER: -> datamembers for gridsize, obstacles storage, initialize position and direction,
              -> methods for turning left, right, move
              -> Get methods to access private member of Rover class to outside functions
     
